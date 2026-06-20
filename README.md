@@ -2,7 +2,7 @@
 
 Sistema de perguntas e respostas em linguagem natural sobre dados de análise de solo, combinando **RAG (Retrieval-Augmented Generation)** para perguntas interpretativas e **Text-to-SQL** para perguntas quantitativas — unindo conhecimento agronômico de domínio com IA generativa aplicada.
 
-> Projeto de portfólio desenvolvido por **Bruno** — Biólogo e Agrônomo, Doutor em Ciências do Solo (UFPR), em transição para Ciência de Dados.
+> Projeto de portfólio desenvolvido por **Bruno** — Biólogo e Agrônomo, Doutorando em Ciências do Solo (UFPR), em transição para Ciência de Dados.
 
 ---
 
